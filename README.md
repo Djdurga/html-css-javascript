@@ -17,8 +17,10 @@ What is HTML?
 
 
 
-The HTML Boilerplate
 
+
+
+The HTML Boilerplate
 
 1)The <!DOCTYPE html> declaration defines that this document is an HTML5 document
 
@@ -31,8 +33,5 @@ The HTML Boilerplate
 5)The <body> element defines the document's body, and is a container for all the visible contents, such as headings, paragraphs, images, hyperlinks, tables, lists, etc.
 
 6)The <h1> element defines a large heading
-
-7)The <p> element defines a paragraph
-
-
-
+  
+7)The <p> element defines a paragraph  
